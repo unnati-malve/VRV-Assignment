@@ -1,11 +1,26 @@
 {
   "name": "rbac-ui",
+<<<<<<< HEAD
   "version": "1.0.0",
   "main": "index.js",
+=======
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+>>>>>>> 775377d (Initialize project using Create React App)
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+<<<<<<< HEAD
     "eject": "react-scripts eject",
     "server": "json-server --watch db.json --port 5000"
   },
@@ -19,6 +34,9 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3"
+=======
+    "eject": "react-scripts eject"
+>>>>>>> 775377d (Initialize project using Create React App)
   },
   "eslintConfig": {
     "extends": [
