@@ -1,6 +1,7 @@
 {
   "name": "rbac-ui",
 <<<<<<< HEAD
+<<<<<<< HEAD
   "version": "1.0.0",
   "main": "index.js",
 =======
@@ -16,11 +17,18 @@
     "web-vitals": "^2.1.4"
   },
 >>>>>>> 775377d (Initialize project using Create React App)
+=======
+  "version": "1.0.0",
+  "main": "index.js",
+>>>>>>> 0c670a6 (first commit)
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0c670a6 (first commit)
     "eject": "react-scripts eject",
     "server": "json-server --watch db.json --port 5000"
   },
@@ -34,9 +42,12 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3"
+<<<<<<< HEAD
 =======
     "eject": "react-scripts eject"
 >>>>>>> 775377d (Initialize project using Create React App)
+=======
+>>>>>>> 0c670a6 (first commit)
   },
   "eslintConfig": {
     "extends": [

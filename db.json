@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "users": [
       { "id": 1, "name": "John Doe", "role": "Admin", "status": "Active" },
@@ -8,4 +9,16 @@
       { "id": 2, "name": "User", "permissions": ["read"] }
     ]
   }
+=======
+{
+    "users": [
+      { "id": 1, "name": "John Doe", "role": "Admin", "status": "Active" },
+      { "id": 2, "name": "Jane Smith", "role": "User", "status": "Inactive" }
+    ],
+    "roles": [
+      { "id": 1, "name": "Admin", "permissions": ["read", "write", "delete"] },
+      { "id": 2, "name": "User", "permissions": ["read"] }
+    ]
+  }
+>>>>>>> 0c670a6 (first commit)
   
